@@ -4,3 +4,5 @@ welcome to new
 kheer
 pasta
 chicken fry
+beans
+pizza
